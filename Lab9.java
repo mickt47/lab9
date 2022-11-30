@@ -9,6 +9,8 @@ public class Lab9{
     a=c and b<d then a,b < c,d
     else c,d < a,b
     */
+   
+   //this is a comment to see if i can push.
    if(pair1.compareTo(pair2) < 0){
            if(pair2.compareTo(pair3) < 0){
                System.out.println(pair3.toString());
